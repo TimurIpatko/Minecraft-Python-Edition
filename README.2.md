@@ -1,5 +1,5 @@
 
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](![python-with-minecraft](https://user-images.githubusercontent.com/103319628/184663926-f4998bfe-e102-4340-afcf-ef14210a6732.jpg)
 
 
 # Project Title
