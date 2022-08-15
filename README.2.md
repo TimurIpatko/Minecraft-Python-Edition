@@ -12,10 +12,13 @@ This is Minecraft But in the Python programming language :)
 ## Screenshots
 
 ![App Screenshot]![image](https://user-images.githubusercontent.com/103319628/184664095-501cd08c-e69d-424e-8b7b-b104e9af70d8.png)
+![image](https://user-images.githubusercontent.com/103319628/184666096-67339262-28d8-4058-a352-35d2512b13c0.png)
+
 
 ## Installation
+Here is a small part of the code namely creation (Hero)
 
-Install my-project with npm
+Вот небольшая часть кода а именно создание (Hero)
 
 ```class Hero():
     def __init__(self, pos, land):
@@ -32,20 +35,20 @@ Install my-project with npm
 ```
 
 ## Documentation
-
-[Documentation](https://linktodocumentation)
-
+"Я использовал свои идеи и мысли а что насчет, программирования я использовал
+Модуль (Panda-3D)
+Создовались функции (Hero , Mapmeneger) "
 
 
 ## Appendix
+I have taken your precious time for myself, the God of this game. or Notch for you mortal and priceless players
 
-Any additional information goes here
+Namely Ipatko Timur
 
+Ваше бесценное время взял себе я Бог этой игры . или Нотчь для вас смертных и безценных игроков
 
-
+А именно Ипатко Тимур
     
 ## 🔗 Links
-[![tiktok](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
-[![epicgames](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+Telegram - 
 
