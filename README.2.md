@@ -12,18 +12,6 @@ This is Minecraft But in the Python programming language :)
 ## Screenshots
 
 ![App Screenshot]![image](https://user-images.githubusercontent.com/103319628/184664095-501cd08c-e69d-424e-8b7b-b104e9af70d8.png)
-![image](https://user-images.githubusercontent.com/103319628/184664363-7ebdda15-de90-4119-b9a7-ca098fb44992.png)
-
-
-## Documentation
-
-[Documentation](https://linktodocumentation)
-
-
-## Appendix
-
-Any additional information goes here
-
 
 ## Installation
 
@@ -42,6 +30,19 @@ Install my-project with npm
         self.cameraBind()
         self.accept_events()
 ```
+
+## Documentation
+
+[Documentation](https://linktodocumentation)
+
+
+
+## Appendix
+
+Any additional information goes here
+
+
+
     
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherinempeterson.com/)
