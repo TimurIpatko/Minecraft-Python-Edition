@@ -1,5 +1,5 @@
 
-(![python-with-minecraft](https://user-images.githubusercontent.com/103319628/184663926-f4998bfe-e102-4340-afcf-ef14210a6732.jpg)
+![python-with-minecraft](https://user-images.githubusercontent.com/103319628/184663926-f4998bfe-e102-4340-afcf-ef14210a6732.jpg)
 
 
 # Project Title
@@ -11,7 +11,7 @@ This is Minecraft But in the Python programming language :)
 
 ## Screenshots
 
-![App Screenshot]![image](https://user-images.githubusercontent.com/103319628/184664095-501cd08c-e69d-424e-8b7b-b104e9af70d8.png)
+![image](https://user-images.githubusercontent.com/103319628/184664095-501cd08c-e69d-424e-8b7b-b104e9af70d8.png)
 ![image](https://user-images.githubusercontent.com/103319628/184666096-67339262-28d8-4058-a352-35d2512b13c0.png)
 
 
@@ -54,5 +54,5 @@ Namely Ipatko Timur
 А именно Ипатко Тимур
     
 ## 🔗 Links
-Telegram - 
+Telegram - Тимур Ипатко
 
