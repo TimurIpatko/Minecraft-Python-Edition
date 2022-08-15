@@ -1,5 +1,5 @@
 
-![Logo](![python-with-minecraft](https://user-images.githubusercontent.com/103319628/184663926-f4998bfe-e102-4340-afcf-ef14210a6732.jpg)
+(![python-with-minecraft](https://user-images.githubusercontent.com/103319628/184663926-f4998bfe-e102-4340-afcf-ef14210a6732.jpg)
 
 
 # Project Title
@@ -35,9 +35,13 @@ Here is a small part of the code namely creation (Hero)
 ```
 
 ## Documentation
-"Я использовал свои идеи и мысли а что насчет, программирования я использовал
-Модуль (Panda-3D)
-Создовались функции (Hero , Mapmeneger) "
+I used my ideas and thoughts and what about the programming I used
+ Module (Panda-3D)
+ Functions were created (Hero - Responsible for creating a character or hero of this game world, Mapmeneger - responsible for creating and generating maps (She does not create maps herself, but uses files with codes))
+
+Я использовал свои идеи и мысли а что насчет, программирования я использовал 
+ Модуль (Panda-3D) 
+ Создовались функции (Hero - Отвечает за создания персонажа или героя этого мира игры , Mapmeneger - отвечает за создания и генирацию карт (Она не создоет карты сама а использует файлы с кодами)) 
 
 
 ## Appendix
@@ -45,7 +49,7 @@ I have taken your precious time for myself, the God of this game. or Notch for y
 
 Namely Ipatko Timur
 
-Ваше бесценное время взял себе я Бог этой игры . или Нотчь для вас смертных и безценных игроков
+Ваше бесценное время взял себе я Бог этой игры , или Нотчь для вас смертных и безценных игроков
 
 А именно Ипатко Тимур
     
